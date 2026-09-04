@@ -1,11 +1,48 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "WarehouseTracker.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/WarehouseTracker.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WarehouseTracker.Data.dll": {}
+        }
+      },
+      "WarehouseTracker.Logic/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "WarehouseTracker.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WarehouseTracker.Logic.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WarehouseTracker.Logic.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "WarehouseTracker.Data/1.0.0": {
+      "type": "project",
+      "path": "../../WarehouseTracker.Data/WarehouseTracker.Data.csproj",
+      "msbuildProject": "../../WarehouseTracker.Data/WarehouseTracker.Data.csproj"
+    },
+    "WarehouseTracker.Logic/1.0.0": {
+      "type": "project",
+      "path": "../../WarehouseTracker.Logic/WarehouseTracker.Logic.csproj",
+      "msbuildProject": "../../WarehouseTracker.Logic/WarehouseTracker.Logic.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "WarehouseTracker.Logic >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\537-23\\.nuget\\packages\\": {},
@@ -39,14 +76,24 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\537-23\\Desktop\\WarehouseTracker\\WarehouseTracker.Logic\\WarehouseTracker.Logic.csproj": {
+              "projectPath": "C:\\Users\\537-23\\Desktop\\WarehouseTracker\\WarehouseTracker.Logic\\WarehouseTracker.Logic.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
         "warnAsError": [
           "NU1605"
         ]
-      }
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net6.0": {
@@ -67,7 +114,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

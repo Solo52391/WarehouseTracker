@@ -13,3 +13,9 @@ C:\Users\537-23\Desktop\WarehouseTracker\ConsoleAppAgapov\ConsoleAppAgapov\obj\D
 C:\Users\537-23\Desktop\WarehouseTracker\ConsoleAppAgapov\ConsoleAppAgapov\obj\Debug\net6.0\ConsoleAppAgapov.pdb
 C:\Users\537-23\Desktop\WarehouseTracker\ConsoleAppAgapov\ConsoleAppAgapov\obj\Debug\net6.0\ConsoleAppAgapov.genruntimeconfig.cache
 C:\Users\537-23\Desktop\WarehouseTracker\ConsoleAppAgapov\ConsoleAppAgapov\obj\Debug\net6.0\ref\ConsoleAppAgapov.dll
+C:\Users\537-23\Desktop\WarehouseTracker\ConsoleAppAgapov\ConsoleAppAgapov\bin\Debug\net6.0\WarehouseTracker.Data.dll
+C:\Users\537-23\Desktop\WarehouseTracker\ConsoleAppAgapov\ConsoleAppAgapov\bin\Debug\net6.0\WarehouseTracker.Logic.dll
+C:\Users\537-23\Desktop\WarehouseTracker\ConsoleAppAgapov\ConsoleAppAgapov\bin\Debug\net6.0\WarehouseTracker.Logic.pdb
+C:\Users\537-23\Desktop\WarehouseTracker\ConsoleAppAgapov\ConsoleAppAgapov\bin\Debug\net6.0\WarehouseTracker.Data.pdb
+C:\Users\537-23\Desktop\WarehouseTracker\ConsoleAppAgapov\ConsoleAppAgapov\obj\Debug\net6.0\ConsoleAppAgapov.sourcelink.json
+C:\Users\537-23\Desktop\WarehouseTracker\ConsoleAppAgapov\ConsoleAppAgapov\obj\Debug\net6.0\ConsoleA.5864F728.Up2Date

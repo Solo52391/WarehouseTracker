@@ -1,0 +1,12 @@
+C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\bin\Debug\net6.0\WarehouseTracker.Data.deps.json
+C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\bin\Debug\net6.0\WarehouseTracker.Data.dll
+C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\bin\Debug\net6.0\WarehouseTracker.Data.pdb
+C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\obj\Debug\net6.0\WarehouseTracker.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\obj\Debug\net6.0\WarehouseTracker.Data.AssemblyInfoInputs.cache
+C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\obj\Debug\net6.0\WarehouseTracker.Data.AssemblyInfo.cs
+C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\obj\Debug\net6.0\WarehouseTracker.Data.csproj.CoreCompileInputs.cache
+C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\obj\Debug\net6.0\WarehouseTracker.Data.sourcelink.json
+C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\obj\Debug\net6.0\WarehouseTracker.Data.dll
+C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\obj\Debug\net6.0\refint\WarehouseTracker.Data.dll
+C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\obj\Debug\net6.0\WarehouseTracker.Data.pdb
+C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\obj\Debug\net6.0\ref\WarehouseTracker.Data.dll
