@@ -5,6 +5,9 @@
       "WarehouseTracker.Data/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "WarehouseTracker.Logic": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/WarehouseTracker.Data.dll": {}
         },
@@ -15,9 +18,6 @@
       "WarehouseTracker.Logic/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "WarehouseTracker.Data": "1.0.0"
-        },
         "compile": {
           "bin/placeholder/WarehouseTracker.Logic.dll": {}
         },
@@ -41,6 +41,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "WarehouseTracker.Data >= 1.0.0",
       "WarehouseTracker.Logic >= 1.0.0"
     ]
   },
@@ -77,6 +78,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\537-23\\Desktop\\WarehouseTracker\\WarehouseTracker.Data\\WarehouseTracker.Data.csproj": {
+              "projectPath": "C:\\Users\\537-23\\Desktop\\WarehouseTracker\\WarehouseTracker.Data\\WarehouseTracker.Data.csproj"
+            },
             "C:\\Users\\537-23\\Desktop\\WarehouseTracker\\WarehouseTracker.Logic\\WarehouseTracker.Logic.csproj": {
               "projectPath": "C:\\Users\\537-23\\Desktop\\WarehouseTracker\\WarehouseTracker.Logic\\WarehouseTracker.Logic.csproj"
             }

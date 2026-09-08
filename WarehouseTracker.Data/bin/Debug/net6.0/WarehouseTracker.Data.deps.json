@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "WarehouseTracker.Data/1.0.0": {
+        "dependencies": {
+          "WarehouseTracker.Logic": "1.0.0"
+        },
         "runtime": {
           "WarehouseTracker.Data.dll": {}
+        }
+      },
+      "WarehouseTracker.Logic/1.0.0": {
+        "runtime": {
+          "WarehouseTracker.Logic.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "WarehouseTracker.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WarehouseTracker.Logic/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

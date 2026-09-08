@@ -10,3 +10,7 @@ C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\obj\Debug\net6.0\
 C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\obj\Debug\net6.0\refint\WarehouseTracker.Data.dll
 C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\obj\Debug\net6.0\WarehouseTracker.Data.pdb
 C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\obj\Debug\net6.0\ref\WarehouseTracker.Data.dll
+C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\bin\Debug\net6.0\WarehouseTracker.Logic.dll
+C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\bin\Debug\net6.0\WarehouseTracker.Logic.pdb
+C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\obj\Debug\net6.0\WarehouseTracker.Data.csproj.AssemblyReference.cache
+C:\Users\537-23\Desktop\WarehouseTracker\WarehouseTracker.Data\obj\Debug\net6.0\Warehous.2060E8B1.Up2Date

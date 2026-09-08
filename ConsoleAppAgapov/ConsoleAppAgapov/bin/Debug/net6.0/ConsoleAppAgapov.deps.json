@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v6.0": {
       "ConsoleAppAgapov/1.0.0": {
         "dependencies": {
+          "WarehouseTracker.Data": "1.0.0",
           "WarehouseTracker.Logic": "1.0.0"
         },
         "runtime": {
@@ -15,6 +16,9 @@
         }
       },
       "WarehouseTracker.Data/1.0.0": {
+        "dependencies": {
+          "WarehouseTracker.Logic": "1.0.0"
+        },
         "runtime": {
           "WarehouseTracker.Data.dll": {
             "assemblyVersion": "1.0.0.0",
@@ -23,9 +27,6 @@
         }
       },
       "WarehouseTracker.Logic/1.0.0": {
-        "dependencies": {
-          "WarehouseTracker.Data": "1.0.0"
-        },
         "runtime": {
           "WarehouseTracker.Logic.dll": {
             "assemblyVersion": "1.0.0.0",
