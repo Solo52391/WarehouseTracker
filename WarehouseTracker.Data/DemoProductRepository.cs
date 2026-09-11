@@ -13,4 +13,8 @@ public class DemoProductRepository : IProductRepository
             new Product { Id = 101, Name = "Демо-товар 2", Quantity = 3 }
         };
     }
+    public void Add(Product item)
+    {
+        // Демонстрационное хранилище доступно только для чтения
+    }
 }

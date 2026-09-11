@@ -16,4 +16,9 @@ public class ProductRepository : IProductRepository
     {
         return _items;
     }
+
+    public void Add(Product item)
+    {
+        _items.Add(item);
+    }
 }
